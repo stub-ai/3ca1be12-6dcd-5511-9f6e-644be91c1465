@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"create web app spa with web component only as pure js without any framework or library, including routing and few sample pages and navigation","md5":"2aeea17c4935a5d80a7b4dc7904c3a5e"}]}
